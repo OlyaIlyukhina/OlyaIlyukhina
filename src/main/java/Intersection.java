@@ -23,7 +23,6 @@ public class Intersection {
                 }
             }
         }
-//        asfdbksd
 
         return result;
     }
